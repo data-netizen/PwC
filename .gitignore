@@ -1,5 +1,5 @@
-main.py
-.idea/
+*main.py
+*.idea
 
 ### Python template
 # Byte-compiled / optimized / DLL files
